@@ -1,6 +1,6 @@
 //preparar e rodar um codigo
 function setup() {
-  createCanvas(400, 200);//criar tela
+  createCanvas(800, 600);//criar tela
   background ("pink");
 }
 
